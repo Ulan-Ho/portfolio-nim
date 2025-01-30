@@ -12,9 +12,9 @@ export const viewport: Viewport = {
 }
 
 export const metadata: Metadata = {
-  title: 'Nim - Шаблон персонального веб-сайта',
+  title: 'Персональный сайт Тохтара',
   description:
-    'Nim - это бесплатный шаблон персонального веб-сайта с открытым исходным кодом, созданный с использованием Next.js 15, React 19 и Motion-примитивов.',
+    'Персональный сайт-портфолио Тохтара ',
 }
 
 const geist = Geist({

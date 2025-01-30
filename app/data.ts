@@ -32,9 +32,9 @@ export const PROJECTS: Project[] = [
     name: 'AI финансовый аналитик',
     description:
       'Автоматическое управление бухгалтерией по британским стандартам для китайского банка в Гонконге.',
-    link: 'https://youtu.be/TWUjiL5FTto',
+    link: 'C:/Users/Asus ZenBook/Desktop/Booth_@2/nim-main/app/ИИ бухгалтер.mp4',
     video:
-      'https://youtu.be/TWUjiL5FTto',
+      'https://asset.cloudinary.com/drqudb6ed/1d886bb516c9632b8ae1910236774d24',
     id: 'project1',
   },
   {
