@@ -137,8 +137,7 @@ export default function Personal() {
       >
         <div className="flex-1">
           <p className="text-zinc-600 dark:text-zinc-400">
-          Сосредоточен на создании интуитивно понятного и эффективного веб-интерфейса.
-          Преодоление разрыва между дизайном и разработкой.
+            Создаю продуманные и масштабируемые решения с фокусом на искусственный интеллект. Оптимизирую процессы, автоматизирую задачи и помогаю бизнесу расти с помощью технологий.
           </p>
         </div>
       </motion.section>
@@ -151,9 +150,9 @@ export default function Personal() {
         <div className="grid grid-cols-1 gap-6 sm:grid-cols-2">
           {PROJECTS.map((project) => (
             <div key={project.name} className="space-y-2">
-              <div className="relative rounded-2xl bg-zinc-50/40 p-1 ring-1 ring-zinc-200/50 ring-inset dark:bg-zinc-950/40 dark:ring-zinc-800/50">
+              {/* <div className="relative rounded-2xl bg-zinc-50/40 p-1 ring-1 ring-zinc-200/50 ring-inset dark:bg-zinc-950/40 dark:ring-zinc-800/50">
                 <ProjectVideo src={project.video} />
-              </div>
+              </div> */}
               <div className="px-1">
                 <a
                   className="font-base group relative inline-block font-[450] text-zinc-900 dark:text-zinc-50"
