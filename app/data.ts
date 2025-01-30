@@ -29,17 +29,17 @@ type SocialLink = {
 
 export const PROJECTS: Project[] = [
   {
-    name: 'Motion Primitives Pro',
+    name: 'Профессиональные примитивы движения',
     description:
-      'Advanced components and templates to craft beautiful websites.',
+      'Продвинутые компоненты и шаблоны для создания красивых веб-сайтов.',
     link: 'https://pro.motion-primitives.com/',
     video:
       'https://res.cloudinary.com/read-cv/video/upload/t_v_b/v1/1/profileItems/W2azTw5BVbMXfj7F53G92hMVIn32/newProfileItem/d898be8a-7037-4c71-af0c-8997239b050d.mp4?_a=DATAdtAAZAA0',
     id: 'project1',
   },
   {
-    name: 'Motion Primitives',
-    description: 'UI kit to make beautiful, animated interfaces.',
+    name: 'Примитивы движения',
+    description: 'Набор пользовательского интерфейса для создания красивых анимированных интерфейсов.',
     link: 'https://motion-primitives.com/',
     video:
       'https://res.cloudinary.com/read-cv/video/upload/t_v_b/v1/1/profileItems/W2azTw5BVbMXfj7F53G92hMVIn32/XSfIvT7BUWbPRXhrbLed/ee6871c9-8400-49d2-8be9-e32675eabf7e.mp4?_a=DATAdtAAZAA0',
@@ -49,15 +49,15 @@ export const PROJECTS: Project[] = [
 
 export const WORK_EXPERIENCE: WorkExperience[] = [
   {
-    company: 'Reglazed Studio',
+    company: 'Reglazed студия',
     title: 'CEO',
     start: '2024',
-    end: 'Present',
+    end: 'Подарок',
     link: 'https://ibelick.com',
     id: 'work1',
   },
   {
-    company: 'Freelance',
+    company: 'Фриланс',
     title: 'Design Engineer',
     start: '2022',
     end: '2024',
@@ -65,10 +65,10 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     id: 'work2',
   },
   {
-    company: 'Freelance',
+    company: 'Фриланс',
     title: 'Front-end Developer',
     start: '2017',
-    end: 'Present',
+    end: 'Подарок',
     link: 'https://ibelick.com',
     id: 'work3',
   },
@@ -76,22 +76,22 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
-    title: 'Exploring the Intersection of Design, AI, and Design Engineering',
-    description: 'How AI is changing the way we design',
+    title: 'Исследуя пересечение дизайна, искусственного интеллекта и инженерного проектирования',
+    description: 'Как искусственный интеллект меняет наш подход к проектированию',
     link: '/blog/exploring-the-intersection-of-design-ai-and-design-engineering',
     uid: 'blog-1',
   },
   {
-    title: 'Why I left my job to start my own company',
+    title: 'Почему я уволился с работы, чтобы основать собственную компанию',
     description:
-      'A deep dive into my decision to leave my job and start my own company',
+      'Глубокое погружение в мое решение уйти с работы и основать собственную компанию',
     link: '/blog/exploring-the-intersection-of-design-ai-and-design-engineering',
     uid: 'blog-2',
   },
   {
-    title: 'What I learned from my first year of freelancing',
+    title: 'Чему я научился за свой первый год работы на фрилансе',
     description:
-      'A look back at my first year of freelancing and what I learned',
+      'Оглядываясь назад, я вспоминаю свой первый год работы на фрилансе и то, чему я научился',
     link: '/blog/exploring-the-intersection-of-design-ai-and-design-engineering',
     uid: 'blog-3',
   },
